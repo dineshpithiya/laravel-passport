@@ -263,4 +263,4 @@ php artisan serve
 ```
 ![Login user](data.png)
 
-More detail go with ![link](https://itsolutionstuff.com/post/laravel-5-how-to-create-api-authentication-using-passport-example.html)
+>> More detail go with [link](https://itsolutionstuff.com/post/laravel-5-how-to-create-api-authentication-using-passport-example.html)
